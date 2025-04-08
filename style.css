@@ -47,7 +47,6 @@ body {
     align-content: center;
     font-size: larger;
     font-weight: 900;
-    box-shadow: 0 5px 10px rgba(251, 251, 251, 0.25);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .buttons{
