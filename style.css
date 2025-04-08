@@ -1,0 +1,66 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    height: 100vh;
+}
+
+.calcbody {
+    background-color: rgb(54, 55, 55);
+    width: 410px;
+    height: 720px;
+    border-radius: 1.5em;
+    /* display: flex;
+    justify-content: center; */
+}
+.screen {
+    background-color: rgb(179, 251, 251);
+    width: 380px;
+    height: 130px;
+    border-radius: 1.5em;
+    margin: 15PX;
+    margin-top: 15px;
+    align-content:center;
+    font-size:  34PX;
+    text-align: right;
+    font-family: ch;
+    font-weight: 1000;
+    
+}
+.circle{
+    width : 60px;
+    height: 60px;
+    box-shadow: inset;
+    border-radius: 1em;
+    background-color: rgb(90, 93, 92);
+    margin: 20px;
+    font-size: 35px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 30px;
+    align-content: center;
+    font-size: larger;
+    font-weight: 900;
+    box-shadow: 0 5px 10px rgba(251, 251, 251, 0.25);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Horizontally center */
+    align-items: center;     /* Vertically center (if needed) */
+}
+ul{
+    list-style: none;
+}
+.nova-square-regular {
+    font-family: "Nova Square", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
