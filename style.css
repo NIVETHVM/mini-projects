@@ -36,7 +36,6 @@ body {
 .circle{
     width : 60px;
     height: 60px;
-    box-shadow: inset;
     border-radius: 1em;
     background-color: rgb(90, 93, 92);
     margin: 20px;
