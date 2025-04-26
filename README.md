@@ -1,4 +1,4 @@
 # calculator-web
-A extensive use of javascript.built calculator creating and understanding a javascript
+Built calculator using html css javascript.
 
 https://nivethvm.github.io/calculator-web/
