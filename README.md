@@ -7,7 +7,7 @@ This repository showcases a collection of mini web projects I built using **HTML
 ### 1. 🧮 Calculator  
 A simple and responsive calculator that performs basic arithmetic operations.
 
-🔗 [Live Demo](https://nivethvm.github.io/calculator-web/)  
+🔗 [Live Demo](https://vmcalculator.netlify.app/)  
 📌 **Features:**
 - Clean UI with responsive layout  
 - Real-time input display  
@@ -18,7 +18,7 @@ A simple and responsive calculator that performs basic arithmetic operations.
 ### 2. ⏳ Countdown Timer with Background Music & Rain Sound  
 A relaxing countdown timer designed to improve focus with ambient rain and music.
 
-🔗 [Live Demo](https://keen-phoenix-e2f470.netlify.app/)  
+🔗 [Live Demo](https://nrpomodoro.netlify.app/)  
 📌 **Features:**
 - Start/Pause/Reset functionality  
 - Background rain and music audio  
